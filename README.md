@@ -4,7 +4,7 @@ Welcome to my C Programming repository! This repository contains various C progr
 
 This repository includes programs from Chapter 1 to Chapter 7, covering different C programming concepts such as basic input and output operations, variables, data types, operators, conditional statements, if-else conditions, nested if statements, loops, and other programming exercises. Each program is created to understand the concepts practically and improve coding skills.
 
-I use the C programming language, GCC compiler, Visual Studio Code, and GitHub to write, compile, execute, and maintain my programs. I will regularly update this repository with new programs, classwork exercises, and practice assignments as I continue my learning journey.
+I use the C programming language, GCC compiler, Visual Studio Code, Embarcadero_Dev-Cpp_6.3_TDM-GCC_9.2_Setup, Embarcadero_Dev app  and GitHub to write, compile, execute, and maintain my programs. I will regularly update this repository with new programs, classwork exercises, and practice assignments as I continue my learning journey.
 
 **My goal is to build a strong foundation in C programming and become confident in developing programs and solving real-world problems through coding.**
 
