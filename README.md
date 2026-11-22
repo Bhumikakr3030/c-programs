@@ -10,6 +10,7 @@ This repository contains C programming practice programs and classwork completed
 - Chapter 5 – Template Programs
 - Chapter 6 – Template Programs
 - Chapter 7 – Template Programs
+- pro and pog are practice assignments
 
 ## Technologies Used
 - C Programming
