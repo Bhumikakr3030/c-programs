@@ -1,47 +1,13 @@
-# C Programming – Emertxe
-This repository contains C programming practice programs and classwork completed during my Emertxe training. It covers basic C programming concepts, template programs, and coding exercises from Chapters 1 to 7. These programs help improve logical thinking, problem-solving skills, and programming knowledge.
+# C Programming – Emertxe Training
 
-## Topics Covered
-- Chapter 1 – Template Programs
-- Chapter 2 – Template Programs
-- Chapter 3 – Template Programs
-- Chapter 4 – Template Codes
-- Chapter 5 – Template Programs
-- Chapter 6 – Template Programs
-- Chapter 7 – Template Programs
-- pro and pog are practice assignments
+Welcome to my C Programming repository! This repository contains various C programming practice programs, classwork exercises, and coding examples completed as part of my Emertxe training. The main objective of this repository is to improve my programming knowledge, develop logical thinking, and strengthen my problem-solving skills through regular practice.
 
-## Technologies Used
-- C Programming
-- GCC Compiler
-- Visual Studio Code
+This repository includes programs from Chapter 1 to Chapter 7, covering different C programming concepts such as basic input and output operations, variables, data types, operators, conditional statements, if-else conditions, nested if statements, loops, and other programming exercises. Each program is created to understand the concepts practically and improve coding skills.
 
-🎯 Learning Objectives
+I use the C programming language, GCC compiler, Visual Studio Code, and GitHub to write, compile, execute, and maintain my programs. I will regularly update this repository with new programs, classwork exercises, and practice assignments as I continue my learning journey.
 
-- Understand basic C programming concepts.
+**My goal is to build a strong foundation in C programming and become confident in developing programs and solving real-world problems through coding.**
 
-- Practice input and output functions.
-
-- Learn decision-making statements.
-
-- Understand loops and nested conditions.
-
-- Improve logical thinking and problem-solving skills.
-
-- Develop programming confidence through daily practice.
-
-📈 Learning Journey
-
-This repository will be regularly updated with new C programs, classwork exercises, and practice problems as I progress through my Emertxe training.
-
-## Purpose
-To improve C programming skills, develop logical thinking, and practice coding.
-
-## Author
-**Bhumika KR**
-
-GitHub: [Bhumikakr3030](https://github.com/Bhumikakr3030)
-
----
-
-*Learning C Programming, one program at a time!*
+**Author:** Bhumika KR  
+**GitHub:** https://github.com/Bhumikakr3030  
+**Repository:** https://github.com/Bhumikakr3030/c-programs
