@@ -8,6 +8,10 @@ I use the C programming language, GCC compiler, Visual Studio Code, Embarcadero_
 
 **My goal is to build a strong foundation in C programming and become confident in developing programs and solving real-world problems through coding.**
 
+## Learning Objectives
+
+The main objective of this repository is to develop a strong foundation in C programming through regular practice and hands-on coding. I aim to understand basic programming concepts, improve logical thinking, and develop problem-solving skills. By practising different programs, I want to gain knowledge of variables, data types, operators, input and output functions, conditional statements, loops, and other important C programming concepts. I also aim to improve my coding skills, understand program execution, identify and correct errors, and gain confidence in writing efficient C programs.
+
 **Author:** Bhumika KR  
 **GitHub:** https://github.com/Bhumikakr3030  
 **Repository:** https://github.com/Bhumikakr3030/c-programs
