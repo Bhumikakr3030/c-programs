@@ -1,6 +1,5 @@
 # C Programming – Emertxe
-
-This repository contains C programming practice programs and classwork completed during my Emertxe training.
+This repository contains C programming practice programs and classwork completed during my Emertxe training. It covers basic C programming concepts, template programs, and coding exercises from Chapters 1 to 7. These programs help improve logical thinking, problem-solving skills, and programming knowledge.
 
 ## Topics Covered
 - Chapter 1 – Template Programs
